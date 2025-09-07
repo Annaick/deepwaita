@@ -1,6 +1,6 @@
 # Deepwaita Icon Theme
 
-![Deepwaita Logo](./showcase.png) *(Optional: Add a logo image to your repository and link it here)*
+![Deepwaita Logo](./showcase.png) 
 
 ## Overview
 
@@ -15,11 +15,8 @@
 - **Folder Icons:** Uses Adwaita's default folder icons for consistency and simplicity.
 - **Lightweight:** Designed to be minimal and efficient, ensuring a smooth user experience.
 
-## Installation
-
-### 1. Download the Theme
-
-You can download the Deepwaita theme in ZIP format from the [releases page](https://github.com/Annaick/deepwaita/releases) or clone the repository directly:
-
-```bash
-git clone https://github.com/Annaick/deepwaita.git
+## Credit
+### Adwaita
+https://www.gnome-look.org/browse?tag=adwaita
+### Deepin 2022
+https://www.gnome-look.org/p/1678986
