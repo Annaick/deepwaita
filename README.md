@@ -1,6 +1,6 @@
 # Deepwaita Icon Theme
 
-![Deepwaita Logo](./assets/logo.png) *(Optional: Add a logo image to your repository and link it here)*
+![Deepwaita Logo](./showcase.png) *(Optional: Add a logo image to your repository and link it here)*
 
 ## Overview
 
