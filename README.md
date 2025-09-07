@@ -6,7 +6,7 @@
 
 **Deepwaita** is a custom GNOME icon theme that combines the vibrant application icons from the Deepin 2022 theme with the clean system and folder icons of Adwaita. This theme was created to provide a cohesive and modern look for GNOME users who appreciate the aesthetics of Deepin's application icons but prefer the simplicity of Adwaita for system elements.
 
-> **Note:** This theme is a personal project and has been tested exclusively on GNOME. It is not officially supported by Deepin or GNOME.
+> **Note:** This theme is a personal backup and has been tested exclusively on GNOME. It is not officially supported by Deepin or GNOME.
 
 ## Features
 
